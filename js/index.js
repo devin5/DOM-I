@@ -151,6 +151,7 @@ navB.style.color = "green"
 headerNav = document.querySelector('header nav');
 headerNav.appendChild(navA); 
 headerNav.prepend(navB)
+// the end
 
 
 
