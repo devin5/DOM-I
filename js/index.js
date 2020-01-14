@@ -90,6 +90,10 @@ wordD.textContent = (siteContent["main-content"]["features-content"]);
 let wordE = document.querySelectorAll('.main-content .top-content .text-content h4')[1];
 wordE.textContent = (siteContent["main-content"]["about-h4"]);
 
+// let mainH4 = document.querySelectorAll(".main-content .top-content .text-content h4'")
+// mainH4.forEach(function(item, index){
+//   item.textContent = 
+// })
 let wordF = document.querySelectorAll('.main-content .top-content .text-content p')[1];
 wordF.textContent = (siteContent["main-content"]["about-content"]);
 
